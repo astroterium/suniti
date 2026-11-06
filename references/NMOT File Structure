@@ -1,0 +1,27 @@
+this shows the NMOT file structure
+
+
+//headers//
+case ID: XXX
+
+
+
+//body//
+
+html{
+	.....
+	.....
+}
+
+body{
+	.....
+	.....
+}
+
+
+p
+{
+	ID: 3
+	text: hello world
+	color: green
+}
